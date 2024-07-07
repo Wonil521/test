@@ -2,7 +2,11 @@ team: Nora
 
 manger: Luke
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 566b5a1 (Edit Leopards)
 
 members:
 - Linda
